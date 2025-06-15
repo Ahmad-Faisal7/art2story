@@ -1,0 +1,3 @@
+artenv/
+.env
+__pycache__/
